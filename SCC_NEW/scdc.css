@@ -1,0 +1,105 @@
+nav{
+    background-color: rgb(229, 232, 234);
+    padding: 1%;
+    margin: 0%;
+    color: bisque;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+}
+
+nav li{
+    display: inline;
+    margin: 10px;
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+.front p{
+    position: absolute;
+    right: 10px;
+    top: 0;
+    color: black;
+}
+
+
+.picture img{
+    width: 100%;    
+}
+
+.picture h1{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(251, 197, 2);
+    top: 25%;
+    left: 40%;
+    position: absolute;
+}
+
+.picture p{
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(153, 251, 7);
+    top: 30%;
+    left: 50%;
+    position: absolute;
+}
+
+.end{
+    background-color: rgb(229, 232, 234);
+    padding: 1%;
+    margin: 0%;
+    color: bisque;
+    text-align: center;
+    width: 100%;
+}
+
+.end p{
+    right: 10px;
+    top: 0;
+    color: rgb(6, 248, 248);
+}
+
+.end a{
+    margin: 10px;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(7, 67, 249);
+}
+
+
+.member{
+    text-align: center;
+}
+
+.member img{
+    width: 100%;
+}
+
+.member p{
+    position: absolute;
+    top: 10%;
+    right: 30%;
+    font-size: x-large;
+    font-style: italic;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    position: absolute;
+   
+}
+
+
+
+.photo{
+    width: 500px;
+    height: 800px;
+}
+
+
+.block_paragraph{
+   float: right;
+}
